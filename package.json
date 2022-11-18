@@ -1,0 +1,19 @@
+{
+  "name": "app-001",
+  "version": "1.0.0",
+  "description": "ELECTRON app mi amigo/amiga",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDSimpson3/Electron-app-001.git"
+  },
+  "author": "gavin (spsr)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GDSimpson3/Electron-app-001/issues"
+  },
+  "homepage": "https://github.com/GDSimpson3/Electron-app-001#readme"
+}
